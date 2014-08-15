@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore OS Related/Generic
 Thumbs.db
 Desktop.ini
@@ -55,3 +56,11 @@ bonfire/.ideas
 
 # Ignore the installed.txt file
 public/install/installed.txt
+=======
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+>>>>>>> 38341d63f0620b2b335c57eab19fa822f634d2a1
